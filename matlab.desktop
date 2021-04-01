@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=R2018a
+Type=Application
+Terminal=false
+MimeType=text/x-matlab
+Exec=/usr/local/MATLAB/R2020b/bin/matlab -desktop -nosplash
+Name=MATLAB
+Icon=matlab
+Categories=Development;Math;Science
+Comment=Scientific computing environment
+StartupNotify=true

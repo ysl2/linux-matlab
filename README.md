@@ -55,3 +55,11 @@ R2018a_glnxa64_dvd2.iso
 3. 执行`install-03.sh`
 
     用于破解及清理中间产物
+
+4. （可选）对于KDE桌面环境的用户，加入快速启动
+
+    执行以下命令
+
+    ```text
+    sudo cp ./matlab.desktop /usr/share/applications/
+    ```
