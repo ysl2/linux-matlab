@@ -2,8 +2,8 @@
 
 echo 'mkdir ~/crack'
 mkdir ~/crack
-echo 'tar -xvf ./Matlab2018aLinux64Crack.tar.gz -C ~/crack'
-tar -xvf ./Matlab2018aLinux64Crack.tar.gz -C ~/crack
+echo 'tar -xvf ./MatlabR2018aLinux64Crack.tar.gz -C ~/crack'
+tar -xvf ./MatlabR2018aLinux64Crack.tar.gz -C ~/crack
 
 echo 'sudo mkdir /mnt/iso'
 sudo mkdir /mnt/iso
