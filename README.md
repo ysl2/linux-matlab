@@ -2,7 +2,7 @@
 
 > 参考：https://blog.csdn.net/m0_37775034/article/details/80876362
 
-此脚本用于在Linux系统安装Matlab
+此脚本用于在Linux系统安装Matlab-R2018a
 
 `Matlab2018aLinux64Crack.tar.gz` 用于破解
 
